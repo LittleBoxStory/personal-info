@@ -1,8 +1,21 @@
+#title{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    font-family: 'Dancing Script';
+}
 .titles{
     text-align: center;
 }
 .contents{
     font-family: 'Noto Sans KR';
+    width: 90%;
+    display: block;
+    margin: 5% auto;
+    padding: 5% 10%;
+    box-shadow: 5px -5px 15px 3px #a86363;
 }
 
 .lh6{
